@@ -1,53 +1,21 @@
-# Amazon_India_Product_Dashboard
-
-## Project Overview
-The Amazon India Sales Dashboard is an Excel-based business
-intelligence project designed to provide a clear view of sales,
-profitability, product performance, order status, payment methods,
-fulfilment methods, and geographic performance.
-
-The dashboard is intended for business management users, including
-non-technical stakeholders, so that they can monitor key performance
-indicators (KPIs), identify trends, and make informed business decisions
-using visual summaries.
-
-## Business Objective
-The objective is to bring important business information into one
-management dashboard. The dashboard addresses four key business
-questions:
-1. How is the business performing overall?
-2. Which products and categories are driving the business?
-3. How many orders are successfully completed and how many are being
-   lost through returns and cancellations?
-4. Which payment methods, fulfilment methods, and states are generating
-   business?
-
-## Dataset Overview
-The project dataset contains 10,000 order records covering 1
-January 2024 to 30 August 2026.
-
-The source workbook includes a Data worksheet with 13 fields:
-
-
-
 <div align="center">
-  <h1>📊 Amazon India Sales Dashboard</h1>
+  <h1> Amazon India Sales Dashboard</h1>
   <p><strong>An Excel-based Business Intelligence Dashboard for Sales, Profitability & Operations</strong></p>
 </div>
 
 ---
 
-## 📋 Project Overview & Business Objective
+##  Project Overview & Business Objective
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Project Overview</h3>
+      <h3> Project Overview</h3>
       <p>The <strong>Amazon India Sales Dashboard</strong> is an Excel-based business intelligence project designed to provide a clear view of sales, profitability, product performance, order status, payment methods, fulfilment methods, and geographic performance.</p>
       <p>Intended for business management and non-technical stakeholders, it helps monitor KPIs, identify trends, and make informed decisions using visual summaries.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>❓ Key Business Questions</h3>
+      <h3> Key Business Questions</h3>
       <ol>
         <li>How is the business performing overall?</li>
         <li>Which products and categories are driving the business?</li>
@@ -61,7 +29,7 @@ The source workbook includes a Data worksheet with 13 fields:
 
 ---
 
-## 📈 Headline Dashboard KPIs
+##  Headline Dashboard KPIs
 
 <table>
   <tr>
@@ -96,14 +64,14 @@ The source workbook includes a Data worksheet with 13 fields:
 
 ---
 
-## 🗂️ Dataset Overview & Metric Definitions
+##  Dataset Overview & Metric Definitions
 
 The dataset contains **10,000 order records** covering **1 January 2024 to 30 August 2026** across 13 fields in the `Data` worksheet.
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>📑 Source Data Fields</h3>
+      <h3> Source Data Fields</h3>
       <table>
         <tr>
           <th>Column</th>
@@ -125,7 +93,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
       </table>
     </td>
     <td width="45%" valign="top">
-      <h3>🧮 Metric Definitions</h3>
+      <h3> Metric Definitions</h3>
       <ul>
         <li><strong>Total Sales:</strong> Sum of <code>Total_Sales_INR</code>.</li>
         <li><strong>Total Profit:</strong> Sum of <code>Profit_INR</code>.</li>
@@ -142,7 +110,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
 
 ---
 
-## 🔍 Dashboard Sections & Key Insights
+##  Dashboard Sections & Key Insights
 
 <table>
   <tr>
@@ -206,7 +174,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
 
 ---
 
-## 🛠️ Tools, Usage & Repository Structure
+##  Tools, Usage & Repository Structure
 
 <table>
   <tr>
@@ -219,7 +187,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
         <li>Interactive Slicers & Filters</li>
         <li>KPI Cards & Dashboard Visuals</li>
       </ul>
-      <h3>📖 How to Use the Workbook</h3>
+      <h3> How to Use the Workbook</h3>
       <ol>
         <li>Open <code>Amazon India Dashboard.xlsx</code>.</li>
         <li>Review the <code>Data</code> sheet for source records.</li>
@@ -229,7 +197,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
       </ol>
     </td>
     <td width="50%" valign="top">
-      <h3>📁 Repository Structure</h3>
+      <h3> Repository Structure</h3>
       <pre>
 Amazon-India-Sales-Dashboard/
 │
@@ -253,7 +221,7 @@ Amazon-India-Sales-Dashboard/
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The analysis shows that the business is strongly dependent on the **Electronics & Mobiles** category, while **UPI** and **Amazon FBA** serve as the primary payment and fulfilment channels. Although **81.47%** of orders are successfully delivered, reducing the **9.85%** combined return and cancellation rate represents a clear opportunity for operational improvement.
 
