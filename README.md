@@ -28,32 +28,7 @@ January 2024 to 30 August 2026.
 
 The source workbook includes a Data worksheet with 13 fields:
 
-### Column Description
-Order_ID        ->       Unique order identifier
 
-Order_Date      ->       Date on which the order was placed
-
-Category        ->       Product category
-
-Product         ->       Product name
-
-Quantity        ->       Number of units ordered
-
-Unit_Price_INR  ->       Unit price in Indian rupees
-
-Discount_Pct    ->       Discount percentage
-
-Total_Sales_INR ->       Sales value in Indian rupees
-
-Profit_INR      ->       Profit in Indian rupees
-
-Payment_Method  ->       Payment method used
-
-Fulfillment     ->       Fulfilment method
-
-Order_Status    ->       Current order status
-
-Ship_State      ->       Customer shipping state
 
 <div align="center">
   <h1>📊 Amazon India Sales Dashboard</h1>
