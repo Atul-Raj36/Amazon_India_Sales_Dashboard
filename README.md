@@ -29,28 +29,28 @@ January 2024 to 30 August 2026.
 The source workbook includes a Data worksheet with 13 fields:
 
 ### Column Description
-Order_ID             Unique order identifier
+Order_ID        ->       Unique order identifier
 
-Order_Date           Date on which the order was placed
+Order_Date      ->       Date on which the order was placed
 
-Category             Product category
+Category        ->       Product category
 
-Product              Product name
+Product         ->       Product name
 
-Quantity             Number of units ordered
+Quantity        ->       Number of units ordered
 
-Unit_Price_INR       Unit price in Indian rupees
+Unit_Price_INR  ->       Unit price in Indian rupees
 
-Discount_Pct         Discount percentage
+Discount_Pct    ->       Discount percentage
 
-Total_Sales_INR      Sales value in Indian rupees
+Total_Sales_INR ->       Sales value in Indian rupees
 
-Profit_INR           Profit in Indian rupees
+Profit_INR      ->       Profit in Indian rupees
 
-Payment_Method       Payment method used
+Payment_Method  ->       Payment method used
 
-Fulfillment          Fulfilment method
+Fulfillment     ->       Fulfilment method
 
-Order_Status         Current order status
+Order_Status    ->       Current order status
 
-Ship_State           Customer shipping state
+Ship_State      ->       Customer shipping state
