@@ -189,7 +189,7 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
       </ul>
       <h3> How to Use the Workbook</h3>
       <ol>
-        <li>Open <code>Amazon India Dashboard.xlsx</code>.</li>
+        <li>Open <code>Amazon_India_Sales Dashboard.xlsx</code>.</li>
         <li>Review the <code>Data</code> sheet for source records.</li>
         <li>Check <code>Obj_*</code> sheets for supporting analysis.</li>
         <li>Open the <code>Dashboard</code> sheet and use slicers (Date, Category, Payment, Fulfilment, Status, State) to filter views.</li>
@@ -202,17 +202,17 @@ The dataset contains **10,000 order records** covering **1 January 2024 to 30 Au
 Amazon-India-Sales-Dashboard/
 │
 ├── README.md
-│
+|
 ├── Dashboard/
-│   ├── Amazon India Dashboard.xlsx
-│   └── Dashboard Screenshot.png
+│   ├── Amazon_India_Sales Dashboard.xlsx
+│   └── Dashboard's Screenshot.png
 │
 ├── Dataset/
-│   └── Amazon Sales Data India.xlsx
+│   └── Amazon_India_Sales Data.xlsx
 │
 └── Documentation/
-    ├── Amazon India Dashboard Requirements.pdf
-    └── Amazon India Dashboard – Business Questions & Insights.docx
+    ├── Amazon_India_Sales Dashboard Requirements.pdf
+    └── Amazon_India_Sales Dashboard – Business Questions & Insights.docx
       </pre>
       <p><em>Note: Only include or redistribute the dataset if you have permission to share it.</em></p>
     </td>
